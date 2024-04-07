@@ -9,10 +9,10 @@ As a strategic move, the managing director of AtliQ Grands wanted to incorporate
 However, they do not have an in-house data analytics team to provide them with these insights.
 
 
-So CSV are provided files for the data. We had to pull those data files into Jupiter Notebook and we used Pandas which is a very popular module in Python and helped us in exploratory data analysis.
+So CSV are provided files for the data. I had to pull those data files into Jupiter Notebook and I had used Pandas which is a very popular module in Python and which helped in exploratory data analysis.
 
 
-We generated insights by answering the questions asked by the client.
+I generated insights by answering the questions asked by the client.
 
 
 By completing this project,  I have covered various aspects of data analysis projects such as:
